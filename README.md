@@ -2,6 +2,7 @@
 
 A bare bones reverse geocoding app in flutter that allows the user to know his current address as well as any address on the map.
 Features: 
+
     1. Ask user location permission
     
     2. Get current user location.
